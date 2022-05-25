@@ -1,4 +1,5 @@
 # BondGraphsTutorials
 
-- [DrivenFilterCircuit](DrivenFilterCircuit.ipynb)
-- [WIP] [Constructing simple examples with bond graphs](1%20-%20Constructing%20simple%20examples%20with%20bond%20graphs.ipynb)
+- [Bond Graph Basics](Basic%20Tutorials/DrivenFilterCircuit.ipynb)
+- [Simple Biochemical Examples](Biochemical/Simple%20Biochemical%20Examples.ipynb)
+- [Advanced Biochemical Examples](Biochemical/Advanced%20Biochemical%20Examples.ipynb)
