@@ -1,5 +1,6 @@
 # BondGraphsTutorials
 
-- [Bond Graph Basics](Basic%20Tutorials/DrivenFilterCircuit.ipynb)
-- [Simple Biochemical Examples](Biochemical/Simple%20Biochemical%20Examples.ipynb)
-- [Advanced Biochemical Examples](Biochemical/Advanced%20Biochemical%20Examples.ipynb)
+- [Simple Electrical Circuit](Basic%20Tutorials/SimpleElectricalCircuit.ipynb)
+- [Simple Biochemical Reaction Networks](Biochemical/SimpleReactions.ipynb)
+- [SERCA Model](Biochemical/SERCA.ipynb)
+- [Enzyme Reactions](Biochemical/EnzymeReactions.ipynb)
