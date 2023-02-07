@@ -1,6 +1,8 @@
 # BondGraphsTutorials
 
-- [Simple Electrical Circuit](Basic%20Tutorials/SimpleElectricalCircuit.ipynb)
-- [Simple Biochemical Reaction Networks](Biochemical/SimpleReactions.ipynb)
-- [SERCA Model](Biochemical/SERCA.ipynb)
-- [Enzyme Reactions](Biochemical/EnzymeReactions.ipynb)
+Notebook | nbviewer | Binder
+--- | --- | ---
+[Simple Electrical Circuit](Notebooks/SimpleElectricalCircuit.ipynb) | [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]()
+[Simple Biochemical Reaction Networks](Notebooks/SimpleReactions.ipynb) | [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]()
+[SERCA Model](Notebooks/SERCA.ipynb) | [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]()
+[Enzyme Reactions](Notebooks/EnzymeReactions.ipynb) | [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]()
